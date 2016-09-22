@@ -1,0 +1,12 @@
+Package: anomaly
+Type: Package
+Title: Model free outlier detection
+Version: 0.1
+Date: 2014-09-17
+Author: Thomas Lin Pedersen
+Maintainer: Thomas Lin Pedersen <thomasp85@gmail.com>
+Description: This package presents a framework for performing model-free outlier
+    detections on data. It implements novel methods such as ABOD and SOS as well
+    as unite the already implemented methods from other packages into a coherent
+    class system.
+License: GPL (>= 2)
